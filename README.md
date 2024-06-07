@@ -1,0 +1,2 @@
+# pyspelling
+Spellcheck from clipbord
